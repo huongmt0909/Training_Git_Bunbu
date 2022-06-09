@@ -1,7 +1,4 @@
 Làm việc với reactjs
 
-<<<<<<< HEAD
 local
-=======
 remote
->>>>>>> 351235101688a85318c16d4fbd2c6740409d4721
